@@ -1,0 +1,3 @@
+Consonants:
+<Voicedness> <Position> <Type>
+
